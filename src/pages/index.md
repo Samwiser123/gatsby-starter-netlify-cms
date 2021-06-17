@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Hi Sam!
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Changes to autopublish
 subheading: This is my first site using a template on Netfily cms. Yay!
 mainpitch:
   title: Why Kaldi
